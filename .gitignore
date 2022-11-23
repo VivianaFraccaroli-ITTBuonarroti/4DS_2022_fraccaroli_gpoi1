@@ -1,3 +1,8 @@
+#Ignorare file richiesti in verifica
+*.jpg
+*.png
+
+
 # Compiled class file
 *.class
 
